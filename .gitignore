@@ -44,3 +44,6 @@ artifacts/
 
 # Kaggle credentials
 kaggle.json
+
+# AI configs
+AGENTS.md
